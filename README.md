@@ -1,9 +1,13 @@
 # python-jenkins
 
-Install Java on your computer
+- Install Java on your computer
 
-Install Jenkins: follow the instructions (here)[https://jenkins.io/download/]
+- Install Jenkins: follow the instructions (here)[https://jenkins.io/download/]
 
-Install the imported packages if you dont have them already in your python environment: sqlite3, python-jenkins. 
+- Install python3
 
-After installation, enter username and password in the python script.
+- Install the imported packages if you dont have them already in your python environment: sqlite3, python-jenkins. 
+
+- After installation, enter username and password in the python script.
+
+- Run the python script with python3.
